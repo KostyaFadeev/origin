@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2652f32-b20d-4d54-8a32-0bc3ad0a569f" name="Changes" comment="" />
+    <list default="true" id="f2652f32-b20d-4d54-8a32-0bc3ad0a569f" name="Changes" comment="default settings">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MSaSD4d3TFFNqkwSSjMay9U4Sm" />
   <component name="ProjectViewState">
@@ -30,7 +36,16 @@
       <option name="presentableId" value="Default" />
       <updated>1677763434953</updated>
       <workItem from="1677763436599" duration="1615000" />
+      <workItem from="1678024454312" duration="1035000" />
     </task>
+    <task id="LOCAL-00001" summary="default settings">
+      <created>1678025311450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678025311450</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -41,10 +56,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="04-task-cherry-pick" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="default settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="default settings" />
   </component>
 </project>
